@@ -296,8 +296,6 @@ button.raised:active {
   margin-bottom: 10px;
 }
 
-/*
-
 #grid {
   height: 100%;
   display: grid;
@@ -306,6 +304,7 @@ button.raised:active {
   grid-template-rows: 64px auto;
 }
 
+/*
 #header {
   grid-column-start: 1;
   grid-column-end: -1;
