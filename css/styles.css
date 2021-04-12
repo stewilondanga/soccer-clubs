@@ -28,6 +28,12 @@ body {
   margin: 0;
 }
 
+:root,
+html,
+body {
+  background-color: #DDD;
+}
+
 .share__icon {
   width: 32px;
   height: 32px;
@@ -291,11 +297,6 @@ button.raised:active {
 }
 
 /*
-:root,
-html,
-body {
-  background-color: #DDD;
-}
 
 #grid {
   height: 100%;
