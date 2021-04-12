@@ -19,6 +19,15 @@
   src: url(https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Dfrg.ttf) format('truetype');
 }
 
+:root,
+html,
+body {
+  font-family: Lato, sans-serif;
+  font-size: 14px;
+  height: 100%;
+  margin: 0;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -128,15 +137,6 @@
   transition-delay: 0.4s;
 }
 
-
-:root,
-html,
-body {
-  font-family: Lato, sans-serif;
-  font-size: 14px;
-  height: 100%;
-  margin: 0;
-}
 
 a {
   text-decoration: none;
