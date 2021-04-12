@@ -213,11 +213,11 @@ p {
   z-index: 9;
 }
 
-/*
 .toolbar--border {
   border-bottom: 1.4px solid #CCCCCC;
 }
 
+/*
 button {
   -webkit-tap-highlight-color: transparent;
   background-color: transparent;
