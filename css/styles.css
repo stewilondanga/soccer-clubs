@@ -346,7 +346,6 @@ page>section {
   padding: 10px;
 }
 
-/*
 page>footer {
   flex: initial;
   margin: 0.4cm 1cm 1cm;
@@ -354,6 +353,7 @@ page>footer {
   border: 1px dashed #666666;
 }
 
+/*
 page[size="A4"] {
   width: 21cm;
   height: 29.7cm;
