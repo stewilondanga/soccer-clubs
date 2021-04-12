@@ -173,7 +173,6 @@ p {
   letter-spacing: 0.01em;
 }
 
-/*
 .toolbar {
   display: flex;
   width: 100%;
@@ -186,6 +185,7 @@ p {
   background-color: #fafafa;
 }
 
+/*
 @media (min-width: 900px) {
   .toolbar {
     flex-flow: row;
