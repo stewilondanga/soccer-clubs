@@ -374,7 +374,6 @@ page[size="A4"] {
   grid-auto-rows: auto;
 }
 
-/*
 .grid-table__header--style {
   display: flex;
   flex-flow: row;
@@ -385,6 +384,7 @@ page[size="A4"] {
   margin-bottom: 2px;
 }
 
+/*
 .grid-table__status--style {
   display: flex;
   flex-flow: row wrap;
