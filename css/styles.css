@@ -413,7 +413,6 @@ page[size="A4"] {
   margin: 0 auto;
 }
 
-/*
 .cal {
   display: inline-block;
   background: #ffe;
@@ -429,6 +428,7 @@ page[size="A4"] {
   transition: all 0.4s linear;
 }
 
+/*
 .cal caption {
   background: #d44;
   color: #eee;
