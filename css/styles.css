@@ -12,6 +12,13 @@
   src: url(https://fonts.gstatic.com/s/ubuntu/v15/4iCs6KVjbNBYlgoKfw7z.ttf) format('truetype');
 }
 
+@font-face {
+  font-family: 'Ubuntu Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Dfrg.ttf) format('truetype');
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -121,13 +128,6 @@
   transition-delay: 0.4s;
 }
 
-
-@font-face {
-  font-family: 'Ubuntu Condensed';
-  font-style: normal;
-  font-weight: 400;
-  src: url(https://fonts.gstatic.com/s/ubuntucondensed/v11/u-4k0rCzjgs5J7oXnJcM_0kACGMtT-Dfrg.ttf) format('truetype');
-}
 
 :root,
 html,
