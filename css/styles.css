@@ -245,12 +245,12 @@ button {
   white-space: nowrap;
 }
 
-/*
 button:not([disabled]) {
   box-shadow: none;
   cursor: pointer;
 }
 
+/*
 button[disabled] {
   color: rgba(0, 0, 0, 0.38);
   pointer-events: none;
