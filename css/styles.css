@@ -309,7 +309,6 @@ button.raised:active {
   grid-column-end: -1;
 }
 
-/*
 #board {
   background-color: inherit;
   grid-column-start: 1;
@@ -317,6 +316,7 @@ button.raised:active {
   grid-row: 2;
 }
 
+/*
 .content--page {
   background-color: #DDD;
   height: 100%;
