@@ -304,12 +304,12 @@ button.raised:active {
   grid-template-rows: 64px auto;
 }
 
-/*
 #header {
   grid-column-start: 1;
   grid-column-end: -1;
 }
 
+/*
 #board {
   background-color: inherit;
   grid-column-start: 1;
