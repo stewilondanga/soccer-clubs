@@ -185,13 +185,13 @@ p {
   background-color: #fafafa;
 }
 
-/*
 @media (min-width: 900px) {
   .toolbar {
     flex-flow: row;
   }
 }
 
+/*
 .toolbar>.section__title {
   flex: auto;
   display: flex;
