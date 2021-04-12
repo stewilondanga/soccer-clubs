@@ -358,7 +358,6 @@ page[size="A4"] {
   height: 29.7cm;
 }
 
-/*
 .grid-table {
   margin-bottom: 16px;
   width: 100%;
@@ -366,6 +365,7 @@ page[size="A4"] {
   z-index: 30;
 }
 
+/*
 .grid-table__layout {
   display: grid;
   grid-gap: 2px 2px;
