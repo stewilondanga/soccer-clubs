@@ -191,7 +191,6 @@ p {
   }
 }
 
-/*
 .toolbar>.section__title {
   flex: auto;
   display: flex;
@@ -200,6 +199,7 @@ p {
   align-items: center;
 }
 
+/*
 .toolbar>.section__action {
   flex: initial;
   display: flex;
