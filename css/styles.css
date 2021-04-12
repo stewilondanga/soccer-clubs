@@ -353,12 +353,12 @@ page>footer {
   border: 1px dashed #666666;
 }
 
-/*
 page[size="A4"] {
   width: 21cm;
   height: 29.7cm;
 }
 
+/*
 .grid-table {
   margin-bottom: 16px;
   width: 100%;
