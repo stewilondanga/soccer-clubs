@@ -316,12 +316,12 @@ button.raised:active {
   grid-row: 2;
 }
 
-/*
 .content--page {
   background-color: #DDD;
   height: 100%;
 }
 
+/*
 page {
   display: flex;
   flex-flow: column wrap;
